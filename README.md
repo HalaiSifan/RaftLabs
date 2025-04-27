@@ -22,7 +22,7 @@
 
 ## How to Run
 1. Clone the repository
-2. Open `RaftLabsAssignment2025.sln`
+2. Open `RaftLabsAssignment2025.sln` as Administrator
 3. Set `RaftLabsAssignment2025.ConsoleApp` as startup project.
 4. Run!
 
